@@ -1,0 +1,22 @@
+{
+  "name": "webserver",
+  "version": "0.4.0",
+  "description": "Servidor Web",
+  "keywords": [
+    "javascript",
+    "node",
+    "express",
+    "hsb"
+  ],
+  "license": "ISC",
+  "author": "David Benitez Muñoz",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
